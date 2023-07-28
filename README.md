@@ -1,7 +1,5 @@
 **Obtaining Input Data**
-- Data is sourced from the Coast and Interior Appraisal Manuals (CAM and IAM) on the BC Government Website
-    - Coast: https://www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/coast-timber-pricing/coast-appraisal-manual-and-amendments
-    - Interior: https://www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/interior-timber-pricing/interior-appraisal-manual
+- Data is sourced from the [Coast](https://www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/coast-timber-pricing/coast-appraisal-manual-and-amendments) and [Interior](https://www2.gov.bc.ca/gov/content/industry/forestry/competitive-forest-industry/timber-pricing/interior-timber-pricing/interior-appraisal-manual) Appraisal Manuals (CAM and IAM) on the BC Government Website
 
 **Preparing Input Data**
 - The PDFs can be converted to word docs and the required data tables can then be copied and pasted in the Input_CSVs folder
